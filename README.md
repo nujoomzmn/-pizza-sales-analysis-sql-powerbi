@@ -72,8 +72,13 @@ The `pizza_sales` table contains the following columns:
 ### Underperformers
 **Worst by Revenue/Quantity/Orders:**
 - **Brie Carre Pizza** - Lowest performance across all metrics
-- DASHBOARDS
-- ![Power BI Dashboard](https://github.com/nujoomzmn/-pizza-sales-analysis-sql-powerbi/raw/main/dashboard1.png)
+## 📊 Power BI Dashboard Preview
+
+### Dashboard Screenshot 1
+![Power BI Dashboard 1](https://github.com/nujoomzmn/-pizza-sales-analysis-sql-powerbi/raw/main/dashboard1.png)
+
+### Dashboard Screenshot 2
+![Power BI Dashboard 2](https://github.com/nujoomzmn/-pizza-sales-analysis-sql-powerbi/raw/main/dashboard2.png)
 
 
 ## 🔍 SQL Analysis Queries
